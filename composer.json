@@ -1,0 +1,17 @@
+{
+    "name": "dawan/import_netflix",
+    "autoload": {
+        "psr-4": {
+            "Dawan\\ImportNetflix\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Thomas Aldaitz",
+            "email": "taldaitz@dawan.fr"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^11.3"
+    }
+}
